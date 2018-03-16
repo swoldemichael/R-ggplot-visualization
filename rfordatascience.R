@@ -1,0 +1,5 @@
+library(tidyverse)
+library(devtools)
+tidyverse_update()
+devtools::session_info(c("tidyverse"))
+Sys.getenv()
