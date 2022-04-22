@@ -1,2 +1,2 @@
-# ds-explored
-exploring data science and machine learning using R
+# R visualization. ggplot is rich
+exploring visualization in R using ggplot
